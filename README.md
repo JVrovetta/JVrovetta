@@ -1,4 +1,4 @@
-## Salve! Eu sou João Vitor Rovetta...
+<h2>Salve! Eu sou João Vitor Rovetta...</h2>
 - 🏫 Estou atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 - 💼 Em busca de uma oportunidade!
 - 📚 100% focado em aprender! Não me prendo apenas ao que a faculdade me proporciona, estou sempre em busca de mais conhecimento, seja através de vídeos on-line, projetos pessoais ou o tão esperado emprego.
@@ -18,11 +18,12 @@
     <img align="center" alt="Jv-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <hr> 
-<div>
+<div align="center">
  <a href="https://discord.gg/3EKZFFyyHc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jvrovettajunqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rovetta-junqueira-016218238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
 ![Snake animation](https://github.com/JVrovetta/JVrovetta/blob/output/github-contribution-grid-snake.svg)
+  <hr>
  
