@@ -24,5 +24,5 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rovetta-junqueira-016218238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-![Snake animation](https://github.com/JVrovetta/JVrovetta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JVrovetta/blob/output/github-contribution-grid-snake.svg)
  
