@@ -1,5 +1,5 @@
 <h2>Salve! Eu sou João Vitor Rovetta...</h2>
-- 🏫 Estou atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+- 🏫 Estou atualmente cursando Análise e Desenvolvimento de Sistemas.
 - 💼 Em busca de uma oportunidade!
 - 📚 100% focado em aprender! Não me prendo apenas ao que a faculdade me proporciona, estou sempre em busca de mais conhecimento, seja através de vídeos on-line, projetos pessoais ou o tão esperado emprego.
 <hr>
