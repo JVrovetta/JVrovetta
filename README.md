@@ -1,7 +1,9 @@
-<h2>Salve! Eu sou João Vitor Rovetta...</h2>
-- 🏫 Estou atualmente cursando Análise e Desenvolvimento de Sistemas.<br>
-- 💼 Em busca de uma oportunidade!<br>
-- 📚 100% focado em aprender! Não me prendo apenas ao que a faculdade me proporciona, estou sempre em busca de mais conhecimento, seja através de vídeos on-line, projetos pessoais ou o tão esperado emprego.
+<h2>Hello! I'm João Vitor Rovetta...</h2>
+- 🏫 Graduated in Systems Analysis and Development.<br>
+- 📚 100% dedicated to learning and delivering my best!<br>
+- 💼 Seeking opportunities!<br><br>
+
+I have never confined myself to what the university provided; I am always in pursuit of more knowledge, whether through online videos, personal projects, or the eagerly awaited job opportunity.
 <hr>
 
 <div align="center">
